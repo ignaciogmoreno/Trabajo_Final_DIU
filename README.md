@@ -48,6 +48,7 @@ Una vez ya conocemos como es Mathew Peterson vamos a pasar a mostrar un Journey 
 ![Mathew Peterson](https://user-images.githubusercontent.com/62752334/122647900-d9532780-d126-11eb-9697-809cfa51b3d7.png)
 Aquí podemos ver el journey map de Mathew, el usuario ha tenido un problema con el diseño de la página ya que no quedaba del todo claro una información que él creía como imprescindible aunque finalmente contactando con la empresa ha logrado solucionarlo.
 
+#### Informe de usabilidad
 Creo que esta es una de las fases imprescindibles del análisis, [el informe de usabilidad](https://github.com/ignaciogmoreno/Trabajo_Final_DIU/files/6680982/UsabilityYuzin.xls)
 Teniendo en cuenta este informe, la puntuación obtenida por Yuzin ha sido de 70.
 El comentario que hago acerca de esta valoración es que el diseño en general cumple con el propósito con el que se creo, aunque es poco personalizable y deja mucho que desear en muchos aspectos. Bajo mi punto de vista, creo que el diseño de esta web se ha quedado un poco desfasado, y no quiero decir que sea antiguo, sino que algunos puntos importantes no se han implementado de una manera óptimo, como la manera de retroceder en un procedimiento o a la hora de hacer reservas.
@@ -73,10 +74,6 @@ Al estar el contenido mal distribuido bajo mi punto de vista, alguien que no dom
 Como conclusión tanto con el análisis que hemos hecho de usabilidad, como con el que hemos hecho de accesibilidad gracias a las extensiones aprendidas en clase de teoría podemos hacernos una idea de que se necesita para poder mejorar el diseño de [YUZIN](https://yuzin.com/).
 
 
-
-
-
-
 ### Diseño
 Ahora voy a pasar a realizar la Malla receptora de información, no es necesario realizar el diseño por completo sino que hay que resaltar las mejoras que podemos llevar a cabo, pero primero adjunto la Feedback Capture Grid.
 ![Feedback](https://user-images.githubusercontent.com/62752334/122649710-613d2f80-d12f-11eb-8f1e-c7f7931e681f.png)
@@ -91,6 +88,8 @@ Voy a pasar a describir esta landing page. Como se ve en la imagen, he rodeado l
 He incluido la landing page antes del moodboard ya que creo que el problema de la página no reside en el moodboard, sino en cómo se organiza la información dentro de la página, con lo cual he decidido que el diseño de la paleta de colores, el logotipo o las fuentes que se usan creo que no deberían cambiarse bajo ningún concepto. 
 
 Para hacer más clara la información voy a pasar a describir como creo yo que deberían ser los diferentes ítems que hay dentro de la página. 
+
+Antes de comenzar analizar y a describir como se deben situar los diferentes ítems en base a los enlaces que tenemos en la página principal, hay que solucionar los errores vistos durante el análisis de accesibilidad. Hay que cambiar el color del texto de los botones azules a un color negro para hacer más contraste, los correos electrónicos en el apartado de contacta hay que cambiarlos de color a negros para hacer contraste con el blanco de fondo. El error que vimos en el buscador, lo he intentado solucionar poniendo texto dentro y se muestra en la landing page.
 
 En primer lugar en la página principal, debería de haber más información acerca de eventos de las diferentes ciudades además de adjuntar fotos sacadas del apartado multimedia que es el que creo que sería necesario añadir para mejorar la página.
 
