@@ -35,3 +35,5 @@ Para concluir con las prácticas, en la práctica cuatro nos volvimos a poner en
 
 Como conclusión final quiero destacar que en esta asignatura, como ya he mencionado al principio, no solo se ven conceptos teóricos sino que también se aprenden otras capacidades de análisis en base a características personales. Por eso quiero destacar que la metodología de aprendizaje de esta asignatura me parece idónea tanto en teoría como en prácticas, me ha parecido una asignatura muy interesante y que sienta las bases para poder hacernos una idea de como verdaderamente se debe diseñar un proyecto en función del público objetivo del mismo y no solo en función de lo que el diseñador, en este caso nosotros, creamos.
 
+
+## PARTE II: Caso de estudio. Web YUZIN
