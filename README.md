@@ -65,6 +65,12 @@ Ahora ayundandome de la extensión [Web Disability Simulator](https://chrome.goo
 Le he pasado diferentes pruebas, la única que tiene algún problema mayor a los demás es las personas con algún tipo de visión, ya que como ya hemos mencionado con la herramienta [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related), los contrastes de colores a veces son complicados y para alguien que solo puede ver en blanco y negro por ejemplo pues mayor problema todavía. 
 ![ByN](https://user-images.githubusercontent.com/62752334/122652325-900ed200-d13e-11eb-822d-cdd09375ff01.png)
 
+Al estar el contenido mal distribuido bajo mi punto de vista, alguien que no domine el castellano (ya que no se dispone de otro idioma), tendrá muchos problemas dentro de la página. Tendrá problemas porque muchas veces las imágenes no acompañan al texto o simplemente no hay imágenes que hagan el contenido más visual.
+
+![Castellano](https://user-images.githubusercontent.com/62752334/122652427-162b1880-d13f-11eb-94a4-9be7e1f2778c.png)
+
+
+Como conclusión tanto con el análisis que hemos hecho de usabilidad, como con el que hemos hecho de accesibilidad gracias a las extensiones aprendidas en clase de teoría podemos hacernos una idea de que se necesita para poder mejorar el diseño de [YUZIN](https://yuzin.com/).
 
 
 
