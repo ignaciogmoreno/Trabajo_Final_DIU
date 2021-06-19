@@ -44,6 +44,9 @@ Para realizar esta parte me voy a basar en la realización de la primera prácti
 ![Matthew](https://user-images.githubusercontent.com/62752334/122647406-647eee00-d124-11eb-9a7c-7a859e916d87.png)
 Esta persona es un perfil creado por nosotros que se adaptara a una posible realidad. El perfil, al igual que en las prácticas de la asignatura, no ha sido creado para analizar una página de viajes o para analizar una página de eventos culturales, sino que es una persona normal que podría querer información de diferentes páginas.
 Una vez ya conocemos como es Mathew Peterson vamos a pasar a mostrar un Journey Map de un problema que ha podido tener en la página de [YUZIN](https://yuzin.com/).
-![Mathew Peterson](https://user-images.githubusercontent.com/62752334/122647900-d9532780-d126-11eb-9697-809cfa51b3d7.png)
 
+![Mathew Peterson](https://user-images.githubusercontent.com/62752334/122647900-d9532780-d126-11eb-9697-809cfa51b3d7.png)
+Aquí podemos ver el journey map de Mathew, el usuario ha tenido un problema con el diseño de la página ya que no quedaba del todo claro una información que él creía como imprescindible aunque finalmente contactando con la empresa ha logrado solucionarlo.
+
+Creo que esta es una de las fases imprescindibles del análisis, el informe de usabilidad.
 
