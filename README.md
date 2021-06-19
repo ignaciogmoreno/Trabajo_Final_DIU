@@ -73,6 +73,7 @@ Al estar el contenido mal distribuido bajo mi punto de vista, alguien que no dom
 
 Como conclusión tanto con el análisis que hemos hecho de usabilidad, como con el que hemos hecho de accesibilidad gracias a las extensiones aprendidas en clase de teoría podemos hacernos una idea de que se necesita para poder mejorar el diseño de [YUZIN](https://yuzin.com/).
 
+#### Test de usabilidad
 Antes de pasar con el apartado de diseño, voy a pasar a realizar el SUS Score de la página con usuarios ficticios (ya que en este momento no dispongo de usuarios reales que me puedan ayudar). 
 * **Usuario 1 (Ficticio)**: Chico estudiante de derecho, 19 años. Utiliza Internet todos los días tanto para trabajo como para ocio, tiene bastante experiencia.
 * **Usuario 2 (Ficticio)**: Hombre jubilado, 84 años. Lleva usando Internet unos cuantos años y sabe prácticamente de todo, tiene mucha experiencia.
