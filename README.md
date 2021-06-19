@@ -37,3 +37,7 @@ Como conclusión final quiero destacar que en esta asignatura, como ya he mencio
 
 
 ## PARTE II: Caso de estudio. Web YUZIN
+
+Para comenzar a realizar esta parte del trabajo final, voy a llevar a cabo diferentes partes inspirandome un poco en las prácticas que hemos realizado a lo largo del año en la asignatura.
+### Análisis
+Para realizar esta parte me voy a basar en la realización de la práctica 1.
