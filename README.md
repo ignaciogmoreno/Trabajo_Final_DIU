@@ -13,7 +13,7 @@ Realizado por
 
 ## PARTE I: MI EXPERIENCIA UX
 
-A lo largo de la asignatura hemos visto y estudiado diferentes procedimientos que son muy importantes y necesarios para analizar una interfaz en base a diferentes patrones y sobre todo desde el punto de vista del usuario. 
+A lo largo de la asignatura hemos visto y estudiado diferentes procedimientos que son muy importantes y necesarios para analizar una interfaz en base a diferentes procedimientos y sobre todo desde el punto de vista del usuario. 
 
 Para comenzar quiero destacar que durante el transcurso de las clases de teoría hemos llevado a cabo diferentes actividades que además se han realizado durante las prácticas que bajo mi punto de vista tienen un interés bastante alto a tener en cuenta. Durante estas diferentes sesiones a parte de aportar conocimientos teóricos, los cuales son muy necesarios para realizar las actividades, se han aportado puntos de vista. Personalmente creo que esta asignatura se alimenta mucho del punto de vista. Durante esta asignatura hemos aportado nuestra opinión y eso creo que es lo más importante y con lo que me quedo, claro está que esta opinión tiene que estar basada en diferentes pautas para la correcta realización de los ejercicios, pero aún así durante toda la asignatura y hasta incluso durante este trabajo final se dota al estudiante de libertad y eso me parece muy atractivo.
 
