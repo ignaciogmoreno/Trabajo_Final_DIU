@@ -51,6 +51,12 @@ Aquí podemos ver el journey map de Mathew, el usuario ha tenido un problema con
 Creo que esta es una de las fases imprescindibles del análisis, [el informe de usabilidad](https://github.com/ignaciogmoreno/Trabajo_Final_DIU/files/6680982/UsabilityYuzin.xls)
 Teniendo en cuenta este informe, la puntuación obtenida por Yuzin ha sido de 70.
 El comentario que hago acerca de esta valoración es que el diseño en general cumple con el propósito con el que se creo, aunque es poco personalizable y deja mucho que desear en muchos aspectos. Bajo mi punto de vista, creo que el diseño de esta web se ha quedado un poco desfasado, y no quiero decir que sea antiguo, sino que algunos puntos importantes no se han implementado de una manera óptimo, como la manera de retroceder en un procedimiento o a la hora de hacer reservas.
+#### Análisis de accesibilidad
+Le voy a pasar una de las herramientas vistas en clase para comprobar la accesibilidad de la página web. Esta herramienta ha sido [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
+
+![Wave](https://user-images.githubusercontent.com/62752334/122651926-24c40080-d13c-11eb-893c-7a7c0abedc65.png)
+
+
 
 
 ### Diseño
@@ -74,7 +80,14 @@ Agenda cultural, desplegaría todos los eventos que hay en ese momento, de maner
 
 En espacios culturales, creo que nada más pulsar en esta pestaña, debería de preguntar de que ciudad se quieren ver estos espacios y ya posteriormente mostrar los mismos de una mejor manera y mejor organizada, evitando las mezclas de espacios entre ciudades y las confusiones que esto derivaría.
 
-Sube tu evento está bien implementada, y creo que debería seguir siendo de una manera similar.
+Sube tu evento, al igual que asóciate, estan bien implementada, y creo que deberían seguir siendo de una manera similar. 
+
+En contacta, debería existir el chat en vivo como y así facilitar la comunicación del ususario con la empresa.
+
+Por último en el apartado multimedia, ya lo he indicado anteriormente pero deberían estar todo lo relacionado a los contenidos audiovisuales del evento así como contenido subido por los propios usuarios que han disfrutado del evento.
+
+Una vez que ya tenemos un rediseño más o menos hecho, tenemos que analizar si esto ha sido útil para mejorar la aplicación. Y en primer lugar quiero destacar que todas las mejoras que he propuesto anteriormente han sido en base a errores o trabas que me he encontrado con lo cual creo que se podría mejorar de largo la aplicación de esta manera. 
+
 
 
 
