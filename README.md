@@ -52,9 +52,21 @@ Creo que esta es una de las fases imprescindibles del análisis, [el informe de 
 Teniendo en cuenta este informe, la puntuación obtenida por Yuzin ha sido de 70.
 El comentario que hago acerca de esta valoración es que el diseño en general cumple con el propósito con el que se creo, aunque es poco personalizable y deja mucho que desear en muchos aspectos. Bajo mi punto de vista, creo que el diseño de esta web se ha quedado un poco desfasado, y no quiero decir que sea antiguo, sino que algunos puntos importantes no se han implementado de una manera óptimo, como la manera de retroceder en un procedimiento o a la hora de hacer reservas.
 #### Análisis de accesibilidad
-Le voy a pasar una de las herramientas vistas en clase para comprobar la accesibilidad de la página web. Esta herramienta ha sido [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
+Le voy a pasar una de las herramientas vistas en clase para comprobar la accesibilidad de la página web. Esta herramienta ha sido [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related), además he utilizado otra herramienta para ponerme bajo el punto de vista de una persona con algun tipo de discapacidad, esta herramienta es [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla)
 
+Paso a mostrar los errores que se han visto con la herramienta [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related).
 ![Wave](https://user-images.githubusercontent.com/62752334/122651926-24c40080-d13c-11eb-893c-7a7c0abedc65.png)
+
+Como vemos la extensión otorga diferentes fallos, voy a pasar a describir los principales fallos a corregir de la página.
+
+En primer lugar, encuentra muy poco contraste entre los botones azules y el color blanco que tiene el texto de los mismos. Otro error lo encuentra en el botón de búsqueda, el cual no tiene ningún texto dentro y hace difícil encontrarlo a simple vista. En el área de contacto existen errores como el poco contraste entre el texto de los correos electrónicos que está en amarillo y el fondo blanco. El último de los errores destacables se basa en que hay algunos links que no tienen texto como el de facebook, aunque yo no lo catalogaría como un fallo importante ya que creo que la imagen de facebook da la suficiente información sin necesidad de texto. Algo dumamente importante y que no he comentado antes es que la página no tiene un botón de accesibilidad al menos en la página principal. 
+
+Ahora ayundandome de la extensión [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla), voy a ver si existen algún error en lo referente a esto. 
+Le he pasado diferentes pruebas, la única que tiene algún problema mayor a los demás es las personas con algún tipo de visión, ya que como ya hemos mencionado con la herramienta [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related), los contrastes de colores a veces son complicados y para alguien que solo puede ver en blanco y negro por ejemplo pues mayor problema todavía. 
+![ByN](https://user-images.githubusercontent.com/62752334/122652325-900ed200-d13e-11eb-822d-cdd09375ff01.png)
+
+
+
 
 
 
