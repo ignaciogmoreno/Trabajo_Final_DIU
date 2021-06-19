@@ -49,3 +49,11 @@ Una vez ya conocemos como es Mathew Peterson vamos a pasar a mostrar un Journey 
 Aquí podemos ver el journey map de Mathew, el usuario ha tenido un problema con el diseño de la página ya que no quedaba del todo claro una información que él creía como imprescindible aunque finalmente contactando con la empresa ha logrado solucionarlo.
 
 Creo que esta es una de las fases imprescindibles del análisis, [el informe de usabilidad](https://github.com/ignaciogmoreno/Trabajo_Final_DIU/files/6680982/UsabilityYuzin.xls)
+Teniendo en cuenta este informe, la puntuación obtenida por Yuzin ha sido de 70.
+El comentario que hago acerca de esta valoración es que el diseño en general cumple con el propósito con el que se creo, aunque es poco personalizable y deja mucho que desear en muchos aspectos. Bajo mi punto de vista, creo que el diseño de esta web se ha quedado un poco desfasado, y no quiero decir que sea antiguo, sino que algunos puntos importantes no se han implementado de una manera óptimo, como la manera de retroceder en un procedimiento o a la hora de hacer reservas.
+
+
+### Diseño
+Ahora voy a pasar a realizar la Malla receptora de información, no es necesario realizar el diseño por completo sino que hay que resaltar las mejoras que podemos llevar a cabo, pero primero adjunto la Feedback Capture Grid.
+![Feedback](https://user-images.githubusercontent.com/62752334/122649710-613d2f80-d12f-11eb-8f1e-c7f7931e681f.png)
+
