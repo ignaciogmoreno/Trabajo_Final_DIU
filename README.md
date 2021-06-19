@@ -56,4 +56,8 @@ El comentario que hago acerca de esta valoración es que el diseño en general c
 ### Diseño
 Ahora voy a pasar a realizar la Malla receptora de información, no es necesario realizar el diseño por completo sino que hay que resaltar las mejoras que podemos llevar a cabo, pero primero adjunto la Feedback Capture Grid.
 ![Feedback](https://user-images.githubusercontent.com/62752334/122649710-613d2f80-d12f-11eb-8f1e-c7f7931e681f.png)
+En lo que me voy a centrar de esta malla, es en las ideas que implementar como propuestas de mejora. En primer lugar me he fijado que la página no está dotada de personalización para el usuario, creo que es algo importante para implementar para hacer más atractivo el diseño y que por tanto muchos usuarios se quedaran por el aspecto visual de la página. Creo que es importante añadir opciones de idioma ya que esto hace que la aplicación sea más global y accesible a otras personas que no hablen el castellano. Para hacer el contacto más dinámico, añadir una opción de chat en vivo con el usuario es una idea muy constructiva bajo mi punto de vista. Por último la otra idea que he incluido en la malla es la de abrir un apartado multimedia, este apartado no estaría solo para ver como es el evento realmente, sino que se podría ver como es un evento para alguien que no conoce bien alguna actividad de estas características.
+
+Una vez que sabemos como serían las ideas de mejora voy a adjuntar una posible landing page en la que se puedan ver las ideas plasmadas en la página.
+![Nueva Landing Page](https://user-images.githubusercontent.com/62752334/122650273-2dafd480-d132-11eb-9142-5005e15c2129.png)
 
