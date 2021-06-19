@@ -49,4 +49,4 @@ Una vez ya conocemos como es Mathew Peterson vamos a pasar a mostrar un Journey 
 Aquí podemos ver el journey map de Mathew, el usuario ha tenido un problema con el diseño de la página ya que no quedaba del todo claro una información que él creía como imprescindible aunque finalmente contactando con la empresa ha logrado solucionarlo.
 
 Creo que esta es una de las fases imprescindibles del análisis, el informe de usabilidad.
-
+[UsabilityYuzin.xls](https://github.com/ignaciogmoreno/Trabajo_Final_DIU/files/6680982/UsabilityYuzin.xls)
