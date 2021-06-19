@@ -10,3 +10,7 @@ A lo largo de este trabajo vamos a tratar diferentes temas, como los conocimient
 Realizado por 
  * :bust_in_silhouette:   [Ignacio Joaquín García Moreno](https://github.com/ignaciogmoreno/)     :octocat:     
 
+
+## PARTE I: MI EXPERIENCIA UX
+
+
