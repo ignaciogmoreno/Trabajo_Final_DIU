@@ -116,6 +116,8 @@ Por último en el apartado multimedia, ya lo he indicado anteriormente pero debe
 
 Una vez que ya tenemos un rediseño más o menos hecho, tenemos que analizar si esto ha sido útil para mejorar la aplicación. Y en primer lugar quiero destacar que todas las mejoras que he propuesto anteriormente han sido en base a errores o trabas que me he encontrado con lo cual creo que se podría mejorar de largo la aplicación de esta manera. 
 
+### Conclusiones Finales acerca de YUZIN 
 
+Como hemos visto, [YUZIN](https://yuzin.com/), es una página web que cumple con su cometido pero no de la mejor manera. Es cierto que un usuario medio puede acceder a esta página con la total seguridad de que podrá encontrar tarde o temprano el objetivo que estaba buscando, aunque es cierto que ese "tarde" preocupa ya que hemos visto con los diferentes análisis que hemos realizado que el principal problema es que la disposición de la información no es óptima, y eso es tan importante o más como el propio propósito de la web. También hemos visto algún error visual pero en general la empresa ha elegido buenos colores con los que trabajar así como una buena colección de fuentes. Una vez ya he conseguido obtener toda la información bajo mi punto de vista importante acerca de la web, creo que el rediseño que he planteado puede subsanar los problemas con los que nos hemos encontrado, con lo cual creo que este nuevo diseño puede ser muy útil y facilitar que la web sea más accesible a todos los usuarios que forman parte de su público objetivo.
 
 
