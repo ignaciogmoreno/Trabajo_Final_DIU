@@ -77,9 +77,12 @@ Antes de pasar con el apartado de diseño, voy a pasar a realizar el SUS Score d
 * **Usuario 1 (Ficticio)**: Chico estudiante de derecho, 19 años. Utiliza Internet todos los días tanto para trabajo como para ocio, tiene bastante experiencia.
 * **Usuario 2 (Ficticio)**: Hombre jubilado, 84 años. Lleva usando Internet unos cuantos años y sabe prácticamente de todo, tiene mucha experiencia.
 * **Usuario 3 (Ficticio)**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, aunque no se desenvuelve bien, no tiene mucha experiencia.
+
 [SUS Score Yuzin](https://github.com/ignaciogmoreno/Trabajo_Final_DIU/files/6681233/Yuzin.ods)
 ![SUS Yuzin](https://user-images.githubusercontent.com/62752334/122653011-35777500-d142-11eb-844a-e21353816edd.png)
 
+A modo de conclusión, nos damos cuenta de que tenemos tres usuarios cuyas valoraciones son muy diferentes entre si. Un usuario por debajo de 51 (Puntuación F), un usuario por encima de 80.3 (Puntuación A) y otro con una puntuación de 60 (Puntuación C). Pese a lavariedad de notas, el promedio sería 61.67, es decir, una puntuación C.
+Este analisis da unos resultados similares a los del informe de usabilidad aunque con una puntuación un poco por debajo. Aún así la aplicación cumple con su cometido pero con una organización de información muy pobre.
 
 ### Diseño
 Ahora voy a pasar a realizar la Malla receptora de información, no es necesario realizar el diseño por completo sino que hay que resaltar las mejoras que podemos llevar a cabo, pero primero adjunto la Feedback Capture Grid.
