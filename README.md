@@ -62,4 +62,19 @@ Con esta malla receptora podemos hacernos una idea de que es en lo que funciona 
 #### Nueva Idea de Landing Page
 Una vez que sabemos como serían las ideas de mejora voy a adjuntar una posible landing page en la que se puedan ver las ideas plasmadas en la página.
 ![Nueva Landing Page](https://user-images.githubusercontent.com/62752334/122650273-2dafd480-d132-11eb-9142-5005e15c2129.png)
+Voy a pasar a describir esta landing page. Como se ve en la imagen, he rodeado las ideas que he puesto en la malla receptora de información. Obviamente no quiere decir que la landing page sea exactamente así, pero si que es cierto que bajo mi punto de vista debe ser algo similar a lo mostrado aquí. A parte de los círculos he añadido algo nuevo para intentar solucionar uno de los errores que he detectado en la malla, y es el añadir un texto en la barra de búsqueda para que se vea más claro donde se localiza la misma. 
+
+He incluido la landing page antes del moodboard ya que creo que el problema de la página no reside en el moodboard, sino en cómo se organiza la información dentro de la página, con lo cual he decidido que el diseño de la paleta de colores, el logotipo o las fuentes que se usan creo que no deberían cambiarse bajo ningún concepto. 
+
+Para hacer más clara la información voy a pasar a describir como creo yo que deberían ser los diferentes ítems que hay dentro de la página. 
+
+En primer lugar en la página principal, debería de haber más información acerca de eventos de las diferentes ciudades además de adjuntar fotos sacadas del apartado multimedia que es el que creo que sería necesario añadir para mejorar la página.
+
+Agenda cultural, desplegaría todos los eventos que hay en ese momento, de manera similar a como se está ahora. Esta página servirá de apoyo para la página principal, los eventos que deberían de mostrarse en la página principal deberían de sacarse de Agenda cultural y de como se organizan los eventos en Agenda Cultural.
+
+En espacios culturales, creo que nada más pulsar en esta pestaña, debería de preguntar de que ciudad se quieren ver estos espacios y ya posteriormente mostrar los mismos de una mejor manera y mejor organizada, evitando las mezclas de espacios entre ciudades y las confusiones que esto derivaría.
+
+Sube tu evento está bien implementada, y creo que debería seguir siendo de una manera similar.
+
+
 
