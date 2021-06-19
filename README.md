@@ -40,4 +40,10 @@ Como conclusión final quiero destacar que en esta asignatura, como ya he mencio
 
 Para comenzar a realizar esta parte del trabajo final, voy a llevar a cabo diferentes partes inspirandome un poco en las prácticas que hemos realizado a lo largo del año en la asignatura.
 ### Análisis
-Para realizar esta parte me voy a basar en la realización de la práctica 1.
+Para realizar esta parte me voy a basar en la realización de la primera práctica. Para ello voy a utilizar a las una de las personas que utilicé para desarrollar nuestra primera práctica para realizar un journey map por la página así como hacer otros procedimientos que se podrán ver más adelante. 
+![Matthew](https://user-images.githubusercontent.com/62752334/122647406-647eee00-d124-11eb-9a7c-7a859e916d87.png)
+Esta persona es un perfil creado por nosotros que se adaptara a una posible realidad. El perfil, al igual que en las prácticas de la asignatura, no ha sido creado para analizar una página de viajes o para analizar una página de eventos culturales, sino que es una persona normal que podría querer información de diferentes páginas.
+Una vez ya conocemos como es Mathew Peterson vamos a pasar a mostrar un Journey Map de un problema que ha podido tener en la página de [YUZIN](https://yuzin.com/).
+![Mathew Peterson](https://user-images.githubusercontent.com/62752334/122647900-d9532780-d126-11eb-9697-809cfa51b3d7.png)
+
+
