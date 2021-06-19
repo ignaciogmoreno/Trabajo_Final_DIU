@@ -73,6 +73,13 @@ Al estar el contenido mal distribuido bajo mi punto de vista, alguien que no dom
 
 Como conclusión tanto con el análisis que hemos hecho de usabilidad, como con el que hemos hecho de accesibilidad gracias a las extensiones aprendidas en clase de teoría podemos hacernos una idea de que se necesita para poder mejorar el diseño de [YUZIN](https://yuzin.com/).
 
+Antes de pasar con el apartado de diseño, voy a pasar a realizar el SUS Score de la página con usuarios ficticios (ya que en este momento no dispongo de usuarios reales que me puedan ayudar). 
+* **Usuario 1 (Ficticio)**: Chico estudiante de derecho, 19 años. Utiliza Internet todos los días tanto para trabajo como para ocio, tiene bastante experiencia.
+* **Usuario 2 (Ficticio)**: Hombre jubilado, 84 años. Lleva usando Internet unos cuantos años y sabe prácticamente de todo, tiene mucha experiencia.
+* **Usuario 3 (Ficticio)**: Hombre farmacéutico, 32 años. Utiliza Internet principalmente en el trabajo, aunque no se desenvuelve bien, no tiene mucha experiencia.
+[SUS Score Yuzin](https://github.com/ignaciogmoreno/Trabajo_Final_DIU/files/6681233/Yuzin.ods)
+![SUS Yuzin](https://user-images.githubusercontent.com/62752334/122653011-35777500-d142-11eb-844a-e21353816edd.png)
+
 
 ### Diseño
 Ahora voy a pasar a realizar la Malla receptora de información, no es necesario realizar el diseño por completo sino que hay que resaltar las mejoras que podemos llevar a cabo, pero primero adjunto la Feedback Capture Grid.
